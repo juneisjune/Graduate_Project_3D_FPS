@@ -31,13 +31,13 @@ Save Wolrd
        -플레이어 기능 구현(추가 총기, 근접공격 등)
 
 9). 조작법
+
 ![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/ae3449be-fe78-491a-9cc8-68fbd99cb670)
 
 
 
-훈련장
-![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/6eb2c059-ccf3-46b4-a160-f6a6ffcab01d)
 
-동영상
+
+동영상 링크
 https://www.youtube.com/watch?v=yUuIaW5VkQQ
 
