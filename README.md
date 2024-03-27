@@ -1,9 +1,10 @@
  Graduate_Project_3D_FPS
+ ![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/5416e7d7-292f-4343-8296-eac5680ca204)
+
 B977084 양민준 대표작품 설명서
 Save Wolrd
 1) 개요 
-      연구소에서 유출된 바이러스로 인해 좀비로![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/aad91571-c53e-4904-93db-72f5274a7d84)
-
+      연구소에서 유출된 바이러스로 인해 좀비로
       뒤덥힌 세상에서 마을 사람들을 위해 해독제
       를 구해 무사 복귀 하는 게임
    
@@ -26,11 +27,13 @@ Save Wolrd
        -플레이어 기능 구현(추가 총기, 근접공격 등)
 
 9). 조작법
-![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/e189b8c9-ead0-41fb-8bd0-0c6ca12b7ff8)
+![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/ae3449be-fe78-491a-9cc8-68fbd99cb670)
 
-메인 화면
+
+
 훈련장
-첫번째 스테이지
- 
-두번째 스테이지
-기능 실패 화
+![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/6eb2c059-ccf3-46b4-a160-f6a6ffcab01d)
+
+동영상
+https://www.youtube.com/watch?v=yUuIaW5VkQQ
+
