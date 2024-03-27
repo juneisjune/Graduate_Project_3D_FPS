@@ -1,8 +1,9 @@
-![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/06b2ad33-03bc-470c-b36b-7d50945c68e6)# Graduate_Project_3D_FPS
+ Graduate_Project_3D_FPS
 B977084 양민준 대표작품 설명서
 Save Wolrd
 1) 개요 
-      연구소에서 유출된 바이러스로 인해 좀비로
+      연구소에서 유출된 바이러스로 인해 좀비로![image](https://github.com/juneisjune/Graduate_Project_3D_FPS/assets/96441874/aad91571-c53e-4904-93db-72f5274a7d84)
+
       뒤덥힌 세상에서 마을 사람들을 위해 해독제
       를 구해 무사 복귀 하는 게임
    
